@@ -113,11 +113,20 @@ cap.release()
 
 ### Step2 : Display the video
 
+<img width="347" height="265" alt="image" src="https://github.com/user-attachments/assets/a62f794f-d3d1-4dc7-be19-a1aa64fd99ed" />
+
+### Step3 : Display the video by resizing the window
+
+<img width="176" height="259" alt="image" src="https://github.com/user-attachments/assets/facb426b-cd16-4cf8-91de-4eccbcb5e862" />
+
+### Step4 : Rotate and display the video
+
+<img width="199" height="260" alt="image" src="https://github.com/user-attachments/assets/1c0f6c66-7e4c-4cc8-9339-d10f57d27981" />
 
 
+### Result: 
 
-
-
+Thus, the image was successfully captured, saved, displayed, resized, and rotated using Python and OpenCV.
 
 
 
