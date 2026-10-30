@@ -1,4 +1,7 @@
 # Experiment 2: Image Acquisition Using Web Camera
+### Developed By : VIMALRAJ B
+### Register Number : 212224230304
+
 ### Aim :
 To acquire an image using a web camera, save the captured frame as a JPG file, display the video stream, and display the video by resizing the frames using Python and OpenCV.
 
